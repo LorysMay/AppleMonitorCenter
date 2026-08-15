@@ -1,7 +1,7 @@
 # AppleMonitorCenter
 
 <p align="center">
-  <img src="AppleMonitorCenter/Assets.xcassets/AppIcon.appiconset/icon_256.png" width="128" alt="AppleMonitorCenter icon">
+  <img src="images/icon_256.png" width="128" alt="AppleMonitorCenter icon">
 </p>
 
 AppleMonitorCenter is a native macOS app for monitoring your Mac — **Apple Silicon and Intel** alike (universal binary). It shows real-time CPU/GPU usage, temperatures, clock speeds, power draw, memory, storage, battery and fan data, with an adaptive Dashboard and a compact menu bar panel.
