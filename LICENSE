@@ -1,0 +1,33 @@
+Copyright (c) 2026 LorysMay. All rights reserved.
+
+This repository distributes compiled binary releases of AppleMonitorCenter.
+No source code is published. This is not an open-source license.
+
+Permission is granted to any person obtaining a copy of the compiled
+application ("the Software") to download and use it, for personal or
+professional purposes, free of charge, subject to the following
+conditions:
+
+1. You may not redistribute the Software, in original or modified form,
+   under this or any other name, through any other channel (website,
+   app store, package manager, etc.) without prior written permission
+   from the author.
+
+2. You may not reverse-engineer, decompile, disassemble, or otherwise
+   attempt to derive the source code of the Software, except to the
+   extent such restriction is expressly prohibited by applicable law.
+
+3. You may not reuse the Software's name, icon, other visual assets, or
+   the contents of this repository (including screenshots) in another
+   product or project without prior written permission from the author.
+
+4. The Software is provided "as is", without warranty of any kind,
+   express or implied, including but not limited to warranties of
+   merchantability, fitness for a particular purpose, and
+   non-infringement. In no event shall the author be liable for any
+   claim, damages, or other liability arising from, out of, or in
+   connection with the Software or its use.
+
+For permissions beyond the scope of this license, or to report a
+security issue privately, please open an Issue on this repository or
+contact the author directly.
