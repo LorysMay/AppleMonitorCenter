@@ -1,7 +1,14 @@
 # AppleMonitorCenter
 
 <p align="center">
-  <img src="images/icon_256.png" width="128" alt="AppleMonitorCenter icon">
+  <img src="AppleMonitorCenter/Assets.xcassets/AppIcon.appiconset/icon_256.png" width="128" alt="AppleMonitorCenter icon">
+</p>
+
+<p align="center">
+  <a href="https://github.com/LorysMay/AppleMonitorCenter/releases"><img src="https://img.shields.io/github/v/release/LorysMay/AppleMonitorCenter?label=release&color=4c8dff" alt="Latest release"></a>
+  <a href="https://github.com/LorysMay/AppleMonitorCenter/releases"><img src="https://img.shields.io/github/downloads/LorysMay/AppleMonitorCenter/total?color=4c8dff" alt="Downloads"></a>
+  <a href="#supported-hardware--macos"><img src="https://img.shields.io/badge/macOS-13%2B%20Apple%20Silicon%2FIntel-black" alt="macOS 13 or later, Apple Silicon or Intel"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-Proprietary-blue" alt="License: Proprietary"></a>
 </p>
 
 AppleMonitorCenter is a native macOS app for monitoring your Mac — **Apple Silicon and Intel** alike (universal binary). It shows real-time CPU/GPU usage, temperatures, clock speeds, power draw, memory, storage, battery and fan data, with an adaptive Dashboard and a compact menu bar panel.
