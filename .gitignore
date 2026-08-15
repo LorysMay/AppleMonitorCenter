@@ -1,7 +1,2 @@
-*.ss~
-*.ss#*
-.#*.ss
+.DS_Store
 
-*.scm~
-*.scm#*
-.#*.scm
