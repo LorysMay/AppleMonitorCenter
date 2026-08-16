@@ -30,15 +30,16 @@ AppleMonitorCenter is a native macOS app for monitoring your Mac — **Apple Sil
 ## Features
 
 - CPU and GPU monitoring: usage, temperature, clock speed, power draw and history graphs.
-- Per-core CPU usage, split between Efficiency and Performance cores.
+- Per-core CPU usage, split between Efficiency and Performance cores and Super cores.
 - Unified memory status and memory pressure.
+- Network monitoring: live download/upload traffic with a history graph, plus Wi-Fi details (interface name, IP address, router, hardware address, security, channel, RSSI, noise and link speed/PHY mode) and Ethernet.
 - SMC sensors grouped by category (temperatures, voltages, currents).
 - Mac hardware info, installed RAM and macOS version, with the official Mac model picture pulled from macOS system resources.
 - SSD, battery and fan monitoring when present.
 - Automatic, manual and custom-curve fan control.
 - Configurable menu bar panel (temperature, RPM, usage, battery %, and more — up to 10 independently configurable sections).
 - Responsive Dashboard that adapts to different MacBook screen sizes/resolutions.
-- Interface localized in multiple languages.
+- Interface localized in 30 languages: English, Italian, French, German, Spanish, Portuguese (Portugal), Dutch, Danish, Swedish, Norwegian Bokmål, Finnish, Polish, Czech, Slovak, Hungarian, Romanian, Croatian, Greek, Turkish, Russian, Ukrainian, Arabic, Hebrew, Catalan, Indonesian, Malay, Japanese, Korean, Chinese (Simplified) and Chinese (Traditional).
 
 ## Installation
 
