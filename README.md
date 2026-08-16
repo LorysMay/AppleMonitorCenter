@@ -1,7 +1,7 @@
 # AppleMonitorCenter
 
 <p align="center">
-  <img src="AppleMonitorCenter/Assets.xcassets/AppIcon.appiconset/icon_256.png" width="128" alt="AppleMonitorCenter icon">
+  <img src="images/icon_256.png" width="128" alt="AppleMonitorCenter icon">
 </p>
 
 <p align="center">
